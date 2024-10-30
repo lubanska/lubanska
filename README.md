@@ -21,7 +21,14 @@ I'm a frontend developer with a flair for design, passionate about building enga
 - **Aesthetic & Accessible UIs:** I bring a designer’s eye to frontend work, creating user-friendly, visually appealing, and accessible applications that make a difference.
 - **Collaborative & Client-Friendly:** Known for my excellent social skills, I’m experienced in client presentations and demos, making technical solutions understandable and engaging.
 - **Continuous Improvement:** I’m a quick learner and dedicated team player who constantly pushes for high standards in both design and code quality.
-- **Diversity & Accessibility:** I believe that both great web experiences and great teams are inclusive and accessible to all. 
+- **Diversity & Accessibility:** I believe that both great web experiences and great teams are inclusive and accessible to all.
+
+### 📂 Recent Projects
+
+- Developed an educational platform for WIPO and MRAF, supporting seven languages and meeting high accessibility standards (Astro, Vue, TypeScript, Storyblok, UnoCSS, AWS, Netlify).
+- Built custom plugins and extensions for Storyblok, Miro, Figma, and Slack, to enhance workflows and team productivity (TypeScript, Python).
+- Created clear and comprehensive documentation for technical and non-technical users.
+- Supported development teams' transition into TypeScript.
 
 ### 🚀 My Background
 
