@@ -2,26 +2,26 @@
 
 I'm a frontend developer with a flair for design, passionate about building engaging, user-centered experiences. Working primarily with **JavaScript frameworks** (Vue, React, Astro) and **TypeScript**, I strive to deliver intuitive and accessible solutions that bring designs to life. With a love for both **clean code** and **beautiful visuals**, I’m known for seamlessly bridging the gap between design and development in agile, collaborative environments.
 
-😄 Pronouns: she/they
-💬 Ask me about: color theory and generative color palettes.
-🌱 Currently learning: WebGL, Python, Danish
-⚡ Fun fact: the stakeholders on my most recent project included Abba and the UN (at the same time!)
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/agatalubanska/)!
+- 😄 Pronouns: she/they
+- 💬 Ask me about: color theory and generative color palettes.
+- 🌱 Currently learning: WebGL, Python, Danish
+- ⚡ Fun fact: the stakeholders on my most recent project included Abba and the UN (at the same time!)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/agatalubanska/)!
 
 ### 🔧 Tech & Tools
 
-**Frontend:** React, Vue, Astro, TypeScript, JavaScript, HTML, CSS, UnoCSS
-**CMS & Platforms:** Storyblok, WordPress, Netlify, Vercel
-**Databases:** MongoDB
-**Cloud & DevOps:** AWS, Azure, GitHub, Terminal
-**Design & Prototyping:** Figma, Spline, Adobe Creative Cloud, Zeplin, Sketch
+- **Frontend:** React, Vue, Astro, TypeScript, JavaScript, HTML, CSS, UnoCSS
+- **CMS & Platforms:** Storyblok, WordPress, Netlify, Vercel
+- **Databases:** MongoDB
+- **Cloud & DevOps:** AWS, Azure, GitHub, Terminal
+- **Design & Prototyping:** Figma, Spline, Adobe Creative Cloud, Zeplin, Sketch
 
 ### 🌱 My Approach
 
-**Aesthetic & Accessible UIs:** I bring a designer’s eye to frontend work, creating user-friendly, visually appealing, and accessible applications that make a difference.
-**Collaborative & Client-Friendly:** Known for my excellent social skills, I’m experienced in client presentations and demos, making technical solutions understandable and engaging.
-**Continuous Improvement:** I’m a quick learner and dedicated team player who constantly pushes for high standards in both design and code quality.
-**Diversity & Accessibility:** I believe that both great web experiences and great teams are inclusive and accessible to all. 
+- **Aesthetic & Accessible UIs:** I bring a designer’s eye to frontend work, creating user-friendly, visually appealing, and accessible applications that make a difference.
+- **Collaborative & Client-Friendly:** Known for my excellent social skills, I’m experienced in client presentations and demos, making technical solutions understandable and engaging.
+- **Continuous Improvement:** I’m a quick learner and dedicated team player who constantly pushes for high standards in both design and code quality.
+- **Diversity & Accessibility:** I believe that both great web experiences and great teams are inclusive and accessible to all. 
 
 ### 🚀 My Background
 
