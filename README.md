@@ -5,7 +5,6 @@ I'm a frontend developer with a flair for design, passionate about building enga
 - 😄 Pronouns: she/they
 - 💬 Ask me about: color theory and generative color palettes.
 - 🌱 Currently learning: WebGL, Python, Danish
-- ⚡ Fun fact: the stakeholders on my most recent project included Abba and the UN (at the same time!)
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/agatalubanska/)!
 
 ### 🔧 Tech & Tools
@@ -25,7 +24,7 @@ I'm a frontend developer with a flair for design, passionate about building enga
 
 ### 📂 Recent Projects
 
-- Developed an educational platform for WIPO and MRAF, supporting seven languages and meeting high accessibility standards (Astro, Vue, TypeScript, Storyblok, UnoCSS, AWS, Netlify).
+- Developed an educational platform, supporting seven languages and meeting high accessibility standards (Astro, Vue, TypeScript, Storyblok, UnoCSS, AWS, Netlify).
 - Built custom plugins and extensions for Storyblok, Miro, Figma, and Slack, to enhance workflows and team productivity (TypeScript, Python).
 - Created clear and comprehensive documentation for technical and non-technical users.
 - Supported development teams' transition into TypeScript.
