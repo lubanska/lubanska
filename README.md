@@ -28,7 +28,7 @@ Together with a wonderful team at [Manyone](https://manyone.com/) I worked on:
 
 - [Clip](https://goclip.org/en/) - an educational platform created for UN's agency WIPO and MRAF, supporting seven languages and meeting high accessibility standards. The website was build using Astro with Vue 3 components, TypeScript, TailwindCSS, Storyblok, AWS and Netlify. Present on the project from day one, I translated Figma design into reusable components; created custom Storyblok and Smartling plugins to improve editor and translator experiences; implemented a11y and i18n; wrote fully typed code and documentation; integrated with AWS backend; took ownership of the project when presenting for clients.
 
-- [Tech.life ast Novo Nordisk](https://techlife.novonordisk.com/) - platform for people seeking tech career in Novo Nordisk. I contributed to the codebase by creating new components, refactoring and resolving the bugs identified by the client.
+- [Tech.life ast Novo Nordisk](https://techlife.novonordisk.com/) - platform for people seeking tech career in Novo Nordisk, created using Vue, TailwindCSS, TypeScript and deployed via Netlify. I contributed to the codebase by creating new components, refactoring and resolving the bugs identified by the client.
 
 - [Manyone](https://manyone.com/) - maintained a landing page for Manyone build with Gridsome, Vue 2 and Storyblok by refactoring legacy code, creating new components and resolving upcoming bugs identified by the team.
 
