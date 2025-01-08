@@ -37,7 +37,3 @@ Other clients I collaborated with include GN Audio and Jabra.
 ### 🚀 My Background
 
 I hold an AP Diploma in Multimedia Design and Communication from KEA (Copenhagen School of Design and Technology), where I developed a strong foundation in HTML/CSS, JavaScript, React.js, WordPress, and UI/UX. I began my career as a digital design intern and have since grown into an accomplished frontend developer, honing my skills in both technical development and team collaboration.
-
-### 🗨️ Let’s Connect
-
-I'm currently seeking full-time employment opportunities in Copenhagen and would love to expand my professional network. If you’re interested in collaborating or discussing exciting projects in tech and design, feel free to reach out! Let’s create something amazing together!
